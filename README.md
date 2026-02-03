@@ -1,0 +1,1 @@
+# AWS_Snowpipe_structure_sample
